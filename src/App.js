@@ -4,12 +4,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className='App'>
-       <Header>
-          
-      </Header>
+    <div className="App">
+        <Header></Header>
+        <main>
+    
+        </main>
     </div>
   );
 }
+
 
 export default App;
